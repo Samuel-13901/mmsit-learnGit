@@ -1,11 +1,11 @@
-#Introduction
-This is readme for learngit.
+# Introduction
+This is readme for learn git.
 
-#Installation
+# Installation
 
 * npm install
 * nvm install
 
-#Production
+# Production
 
 * blah blah blah
